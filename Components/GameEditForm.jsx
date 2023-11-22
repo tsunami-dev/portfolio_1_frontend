@@ -179,13 +179,13 @@ function GameEditForm() {
         </select>
         <br />
         <br />
-        <label htmlFor="year">Year Released: </label>
+        <label htmlFor="pieces_taken">Pieces Taken: </label>
         <input
-          id="year"
-          value={game.year}
+          id="pieces_taken"
+          value={game.pieces_taken}
           type="text"
           onChange={handleTextChange}
-          placeholder="Release year..."
+          placeholder="Pieces..."
         />
         <label htmlFor="won_game">Won Game: </label>
         <input

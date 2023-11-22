@@ -174,14 +174,14 @@ function GameNewForm() {
       </select>
       <br />
       <br />
-      <label htmlFor="year">Year Released: </label>
-      <input
-        id="year"
-        value={game.year}
-        type="text"
-        onChange={handleTextChange}
-        placeholder="Release year..."
-      />
+      <label htmlFor="pieces_taken">Pieces Taken: </label>
+        <input
+          id="pieces_taken"
+          value={game.pieces_taken}
+          type="text"
+          onChange={handleTextChange}
+          placeholder="Pieces..."
+        />
       <label htmlFor="won_game">Won Game: </label>
       <input
         id="won_game"

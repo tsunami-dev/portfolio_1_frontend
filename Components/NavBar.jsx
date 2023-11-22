@@ -9,6 +9,9 @@ export default function NavBar() {
             <button>
                 <Link to="/games/new">Add Your History</Link>
             </button>
+            <button>
+                <Link to="/games/:index/edit">Rewrite The History</Link>
+            </button>
         </nav>
     )
 }
