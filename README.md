@@ -8,6 +8,9 @@
 [Chess Game History - Log App](https://grand-tiramisu-47beb4.netlify.app)
 > - please note: it may take up to 30 seconds for the data to load.
 
+`link to project recording:`
+[loom recording] (https://www.loom.com/share/394d2d080e5a4dcdbc4343b5c8030bd9)
+
 
 ## - under the hood:
 `Vite 4.4.5 + React 18.2.0`
