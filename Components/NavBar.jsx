@@ -6,7 +6,7 @@ export default function NavBar() {
             <h1>
                 <Link to ="/games">Games</Link> 
                 <br/>
-                <img src="/logo.jpeg" width="7%" />
+                <img src="/logo.png" width="7%" />
             </h1>
            
             <button>
