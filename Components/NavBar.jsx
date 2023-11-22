@@ -4,8 +4,11 @@ export default function NavBar() {
     return (
         <nav>
             <h1>
-                <Link to ="/games">Games</Link>
+                <Link to ="/games">Games</Link> 
+                <br/>
+                <img src="/logo.jpeg" width="7%" />
             </h1>
+           
             <button>
                 <Link to="/games/new">Add Your History</Link>
             </button>

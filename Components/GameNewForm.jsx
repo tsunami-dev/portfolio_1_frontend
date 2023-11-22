@@ -74,7 +74,7 @@ function GameNewForm() {
 
   return (
     <div className="New">
-    <h2 className="returnheader">Edit Game Details:</h2>
+    <h2 className="returnheader">New Log:</h2>
     <form onSubmit={handleOnSubmit}>
       <label htmlFor="name">Name:</label>
       <input
