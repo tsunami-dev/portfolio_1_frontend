@@ -7,7 +7,7 @@ export default function NavBar() {
                 <Link to ="/games">Games</Link>
             </h1>
             <button>
-                <Link to="/games/new">Add Games</Link>
+                <Link to="/games/new">Add Your History</Link>
             </button>
         </nav>
     )
