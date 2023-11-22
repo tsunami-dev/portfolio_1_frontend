@@ -1,8 +1,27 @@
-# React + Vite
+# Chess Game History - Log App
+*...created by Tyller Mendoza*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+`Link to our backend repo:`
+[GitHub BackEnd Repo](https://github.com/tsunami-dev/portfolio_1_backend-) 
 
-Currently, two official plugins are available:
+`Link to the deployed app:`
+[Chess Game History - Log App](https://grand-tiramisu-47beb4.netlify.app)
+> - please note: it may take up to 30 seconds for the data to load.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## - under the hood:
+`Vite 4.4.5 + React 18.2.0`
+
+  
+
+## - other languages | applications | installs utilized:
+`PostgreSQL 15`
+`Javascript`
+`JavaScript XML | JSX`
+`Node.js`
+`Nodemon Server.js`
+`Node.js CORS Middleware`
+`Express.js Middleware`
+`PG-Promise PostgreSQL Library`
+`DOTENV`
+`Fetch API`
