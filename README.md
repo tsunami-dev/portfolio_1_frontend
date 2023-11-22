@@ -9,7 +9,7 @@
 > - please note: it may take up to 30 seconds for the data to load.
 
 `link to project recording:`
-[loom recording] (https://www.loom.com/share/394d2d080e5a4dcdbc4343b5c8030bd9)
+[loom recording] (https://www.loom.com/share/4f8e35d42a474b15a279fa392383dfea?sid=4bc1f50e-651d-49a7-b04e-102e82b0a15a)
 
 
 ## - under the hood:

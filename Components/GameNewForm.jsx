@@ -44,7 +44,7 @@ function GameNewForm() {
   };
 
   const handleCheckboxChange = () => {
-    setGame({ ...game, isBanned: !game.isBanned });
+    setGame({ ...game, won_game: !game.won_game });
   };
 
   const handleMoveChange = (e) => {
